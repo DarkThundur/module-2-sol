@@ -1,0 +1,50 @@
+
+*{
+	margin: 0px;
+	box-sizing: border-box;
+	padding: 0px;
+}
+
+h1{
+	text-align: center;
+	margin-right:auto;
+	margin-left: auto;
+	margin-top: 10px;
+	margin-bottom: 20px;
+
+}
+.main{
+	background: blue;
+	
+	
+}
+.end{
+	clear: left;
+}
+.pack{
+	padding: 10px;
+}
+.menu{
+	float:left;
+	width: 33.33%;
+	padding: 10px;
+
+	
+}
+.body{
+	position: relative;
+	height: 250px;
+	background: grey;
+	border: 5px solid black;
+
+}
+.tag{
+	position: absolute;
+	top: -3px;
+	right:-3px;
+	width: 25%;
+	height: 10%;
+	background: red;
+	border: 3px solid black;
+
+}
